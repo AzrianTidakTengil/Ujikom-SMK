@@ -1,3 +1,6 @@
 [submodule "Ujikom-API"]
 	path = Ujikom-API
 	url = https://github.com/AzrianTidakTengil/Ujikom-API.git
+[submodule "Ujikom-Client"]
+	path = Ujikom-Client
+	url = git@github.com:AzrianTidakTengil/Ujikom-Client.git
