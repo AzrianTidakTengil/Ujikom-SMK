@@ -1,0 +1,3 @@
+[submodule "Ujikom-API"]
+	path = Ujikom-API
+	url = https://github.com/AzrianTidakTengil/Ujikom-API.git
