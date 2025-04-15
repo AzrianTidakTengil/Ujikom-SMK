@@ -1,10 +1,10 @@
 # 📦 Popping Ecommerce
 
-## Project Overview
+## 🧑‍💻 Project Overview
 
 Aplikasi E-commerce yaitu aplikasi berbelanja secara online dimanapun dan kapanpun kita berada. Aplikasi berjalan dengan basis website dan dapat digunakan hampir semua gadget. Aplikasi tersedia di seluruh daerah Indonesia. Mengapa e-commerce? karena mengingat canggihnya teknologi maka dibutuhkan juga kecepatan antar komunikasi.
 
-## Latar Belakang
+## 📚 Latar Belakang
 
 Di era digital saat ini, pertumbuhan e-commerce semakin pesat seiring dengan perubahan pola belanja masyarakat yang mulai beralih dari toko fisik ke toko online. Hal ini mendorong banyak pelaku usaha untuk membangun platform digital yang mampu menjangkau konsumen secara lebih luas dan efisien.
 
@@ -12,7 +12,7 @@ Di era digital saat ini, pertumbuhan e-commerce semakin pesat seiring dengan per
 
 Tujuan utama dari pengembangan Popping Ecommerce adalah untuk menciptakan pengalaman berbelanja online yang menyenangkan bagi pengguna, sekaligus memberikan kemudahan dalam pengelolaan produk dan transaksi bagi admin toko.
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 ### Frontend:
 
@@ -37,7 +37,7 @@ Tujuan utama dari pengembangan Popping Ecommerce adalah untuk menciptakan pengal
 - Manajemen pesanan (user & admin)
 - Upload & preview gambar produk (Cropper.js)
 
-## Inforamation
+## 📄 Inforamation
 
 - **Developer**: Azrian Muhammadin Hanif
 - **Tanggal mulai**: 30 Januari 2025
