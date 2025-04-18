@@ -194,5 +194,5 @@ this.props.getUser();
 
 - Icons: [Material Icons](https://fonts.google.com/icons)  
 - UI: [Material UI](https://mui.com/)  
-- Detail: [Dokumentasi Uji Kompotensi WebSite - Azrian M Hanif](https://docs.google.com/document/d/1oR0J4acHkWtQK1LCWs5VhL47mCLh-SJFZGEuytsX5Mc/edit?usp=sharing)
+- Documentation: [Dokumentasi Uji Kompotensi WebSite - Azrian M Hanif](https://docs.google.com/document/d/1oR0J4acHkWtQK1LCWs5VhL47mCLh-SJFZGEuytsX5Mc/edit?usp=sharing)
 - License: MIT
