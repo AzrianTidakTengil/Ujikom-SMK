@@ -153,7 +153,7 @@ this.props.getUser();
 
 **Base URL:** `http://localhost:3001/api/`
 
-> Lihat dokumen lengkap `The_Final_Exams_API_Endpoints.docx` untuk tabel detail semua endpoint.
+> Lihat dokumen lengkap [Dokumentasi Uji Kompotensi WebSite - Azrian M Hanif](https://docs.google.com/document/d/1oR0J4acHkWtQK1LCWs5VhL47mCLh-SJFZGEuytsX5Mc/edit?usp=sharing) untuk tabel detail semua endpoint.
 
 ### 🔄 Contoh Response
 ```json
